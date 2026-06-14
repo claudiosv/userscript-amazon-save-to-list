@@ -13,7 +13,7 @@ A userscript that bulk-adds all your Amazon "Saved for later" items to a wishlis
 
 ## Installation
 
-**Via Greasy Fork** *(recommended)*: [Install from Greasy Fork](https://greasyfork.org/en/scripts/582726-amazon-saved-to-list-auto-adder)
+**Via Greasy Fork** _(recommended)_: [Install from Greasy Fork](https://greasyfork.org/en/scripts/582726-amazon-saved-to-list-auto-adder)
 
 **Direct install**: [save-to-list.user.js](https://github.com/claudiosv/userscript-amazon-save-to-list/releases/latest/download/save-to-list.user.js)
 
