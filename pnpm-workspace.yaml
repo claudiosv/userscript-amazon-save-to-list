@@ -1,0 +1,4 @@
+allowedBuildScripts:
+    - esbuild
+allowBuilds:
+    esbuild: true

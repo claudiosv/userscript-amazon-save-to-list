@@ -1,0 +1,32 @@
+{
+    "name": "userscript-amazon-save-to-list",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Bulk add Amazon \"Saved for later\" items to a list with SPA refresh protection and lazy-load scrolling",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/claudiosv/userscript-amazon-save-to-list.git"
+    },
+    "type": "module",
+    "scripts": {
+        "build": "tsx scripts/build.ts",
+        "format": "prettier --write .",
+        "format:check": "prettier --check .",
+        "lint": "eslint src scripts",
+        "release": "tsx scripts/release.ts",
+        "typecheck": "tsc --noEmit"
+    },
+    "devDependencies": {
+        "@types/node": "25.9.3",
+        "esbuild": "^0.28.1",
+        "eslint": "10.5.0",
+        "prettier": "^3.8.4",
+        "tsx": "^4.22.4",
+        "typescript": "6.0.3",
+        "typescript-eslint": "^8.61.0"
+    },
+    "engines": {
+        "node": ">=20",
+        "pnpm": ">=9"
+    }
+}
