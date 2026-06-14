@@ -1,6 +1,6 @@
 {
     "name": "userscript-amazon-save-to-list",
-    "version": "0.9.0",
+    "version": "1.0.0",
     "private": true,
     "description": "Bulk add Amazon \"Saved for later\" items to a list with SPA refresh protection and lazy-load scrolling",
     "repository": {
