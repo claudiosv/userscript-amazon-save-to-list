@@ -13,7 +13,7 @@ A userscript that bulk-adds all your Amazon "Saved for later" items to a wishlis
 
 ## Installation
 
-**Via Greasy Fork** *(recommended)*: [Install from Greasy Fork](https://greasyfork.org/en/users/1612906-claudios)
+**Via Greasy Fork** *(recommended)*: [Install from Greasy Fork](https://greasyfork.org/en/scripts/582726-amazon-saved-to-list-auto-adder)
 
 **Direct install**: [save-to-list.user.js](https://github.com/claudiosv/userscript-amazon-save-to-list/releases/latest/download/save-to-list.user.js)
 
@@ -31,10 +31,10 @@ The script processes items one by one, showing progress in the button. When done
 
 ## Supported Storefronts
 
-North America: `.com` `.ca` `.com.mx`  
-Europe: `.co.uk` `.de` `.fr` `.it` `.es` `.nl` `.se` `.pl` `.com.be`  
-Asia & Pacific: `.co.jp` `.in` `.com.au` `.sg`  
-Middle East & Africa: `.ae` `.sa` `.eg` `.com.tr` `.co.za`  
+North America: `.com` `.ca` `.com.mx`
+Europe: `.co.uk` `.de` `.fr` `.it` `.es` `.nl` `.se` `.pl` `.com.be`
+Asia & Pacific: `.co.jp` `.in` `.com.au` `.sg`
+Middle East & Africa: `.ae` `.sa` `.eg` `.com.tr` `.co.za`
 South America: `.com.br`
 
 ## Development

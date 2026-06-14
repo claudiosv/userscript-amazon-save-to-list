@@ -51,6 +51,7 @@ const banner = [
     "// ==UserScript==",
     "// @name         Amazon Saved to List Auto-Adder",
     `// @namespace    https://github.com/${repo}`,
+    "// @license      MIT",
     `// @version      ${pkg.version}`,
     '// @description  Bulk add Amazon "Saved for later" items to a list with SPA refresh protection and lazy-load scrolling',
     "// @author       Claudios",
